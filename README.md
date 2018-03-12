@@ -117,8 +117,10 @@ With my network I achieved a final IoU of 0.421 and a final grade score of 0.289
 
 [image_3]: ./docs/misc/results1.png
 ![alt text][image_3] 
+
 [image_4]: ./docs/misc/results2.png
 ![alt text][image_4] 
+
 [image_5]: ./docs/misc/results3.png
 ![alt text][image_5] 
 
