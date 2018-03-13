@@ -3,7 +3,7 @@
 ## Deep Learning Project ##
 This is the fourth project in the Udacity Robotics Software Engineer Nanodegree. 
 
-In this project, I train a deep neural network to identify and track a target in simulation. So-called “follow me” applications like this are key to many fields of robotics and the very same techniques you apply here could be extended to scenarios like advanced cruise control in autonomous vehicles or human-robot collaboration in industry.
+In this project, I train a deep neural network to identify and track a target in simulation. So-called “follow me” applications like this are key to many fields of robotics and the very same techniques applied here could be extended to scenarios like advanced cruise control in autonomous vehicles or human-robot collaboration in industry.
 
 I built and trained a fully convolutional neural network to allow a drone to identify and follow a specific target - the 'hero' - within an image in a simulated environment. I was able to achieve a final IoU of ~42% (0.421). 
 
