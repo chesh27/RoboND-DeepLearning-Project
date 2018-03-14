@@ -10,6 +10,7 @@ I built and trained a fully convolutional neural network to allow a drone to ide
 [image_0]: ./docs/misc/sim_screenshot.png
 ![alt text][image_0] 
 
+
 ## Setup Instructions
 **Clone the repository**
 ```
